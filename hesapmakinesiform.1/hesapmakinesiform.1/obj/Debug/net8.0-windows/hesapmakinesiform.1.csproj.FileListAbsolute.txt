@@ -1,0 +1,16 @@
+C:\Users\Emir\Desktop\Emr\c#\c# test\hesapmakinesiform.1\hesapmakinesiform.1\bin\Debug\net8.0-windows\hesapmakinesiform.1.exe
+C:\Users\Emir\Desktop\Emr\c#\c# test\hesapmakinesiform.1\hesapmakinesiform.1\bin\Debug\net8.0-windows\hesapmakinesiform.1.deps.json
+C:\Users\Emir\Desktop\Emr\c#\c# test\hesapmakinesiform.1\hesapmakinesiform.1\bin\Debug\net8.0-windows\hesapmakinesiform.1.runtimeconfig.json
+C:\Users\Emir\Desktop\Emr\c#\c# test\hesapmakinesiform.1\hesapmakinesiform.1\bin\Debug\net8.0-windows\hesapmakinesiform.1.dll
+C:\Users\Emir\Desktop\Emr\c#\c# test\hesapmakinesiform.1\hesapmakinesiform.1\bin\Debug\net8.0-windows\hesapmakinesiform.1.pdb
+C:\Users\Emir\Desktop\Emr\c#\c# test\hesapmakinesiform.1\hesapmakinesiform.1\obj\Debug\net8.0-windows\hesapmakinesiform._1.Form1.resources
+C:\Users\Emir\Desktop\Emr\c#\c# test\hesapmakinesiform.1\hesapmakinesiform.1\obj\Debug\net8.0-windows\hesapmakinesiform.1.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Emr\c#\c# test\hesapmakinesiform.1\hesapmakinesiform.1\obj\Debug\net8.0-windows\hesapmakinesiform.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir\Desktop\Emr\c#\c# test\hesapmakinesiform.1\hesapmakinesiform.1\obj\Debug\net8.0-windows\hesapmakinesiform.1.AssemblyInfoInputs.cache
+C:\Users\Emir\Desktop\Emr\c#\c# test\hesapmakinesiform.1\hesapmakinesiform.1\obj\Debug\net8.0-windows\hesapmakinesiform.1.AssemblyInfo.cs
+C:\Users\Emir\Desktop\Emr\c#\c# test\hesapmakinesiform.1\hesapmakinesiform.1\obj\Debug\net8.0-windows\hesapmakinesiform.1.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Emr\c#\c# test\hesapmakinesiform.1\hesapmakinesiform.1\obj\Debug\net8.0-windows\hesapmakinesiform.1.dll
+C:\Users\Emir\Desktop\Emr\c#\c# test\hesapmakinesiform.1\hesapmakinesiform.1\obj\Debug\net8.0-windows\refint\hesapmakinesiform.1.dll
+C:\Users\Emir\Desktop\Emr\c#\c# test\hesapmakinesiform.1\hesapmakinesiform.1\obj\Debug\net8.0-windows\hesapmakinesiform.1.pdb
+C:\Users\Emir\Desktop\Emr\c#\c# test\hesapmakinesiform.1\hesapmakinesiform.1\obj\Debug\net8.0-windows\hesapmakinesiform.1.genruntimeconfig.cache
+C:\Users\Emir\Desktop\Emr\c#\c# test\hesapmakinesiform.1\hesapmakinesiform.1\obj\Debug\net8.0-windows\ref\hesapmakinesiform.1.dll
